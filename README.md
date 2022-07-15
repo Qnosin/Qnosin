@@ -30,6 +30,10 @@ Hi, I’m @Qnosin but to be precise my name is Jakub Putaj, i'm currently 19 yea
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
   </p>
   
+  <p align='center'>
+     Portfolio: https://jakub-putaj.netlify.app/
+  </p>
+  
   
 
 
