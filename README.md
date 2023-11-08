@@ -21,7 +21,7 @@ Hi, I’m @Qnosin but to be precise my name is Jakub Putaj,
 <br/>
 <p align='center'>My Real Word Projects:</p>
 <div align='center'>
-<a href="https://webcord.pl/">WebCord</a>
+<a href="https://webcord.pl/" target="_blank" >WebCord</a>
 </div>
   
   
