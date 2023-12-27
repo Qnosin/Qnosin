@@ -9,11 +9,12 @@ Hi, I’m @Qnosin but to be precise my name is Jakub Putaj,
   
  <p align='center'>Technology i work with: </p>
 <div align="center">
-	<img width="125" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" title="Wordpress"/>
-         <img width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/>
+	<img width="129" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" title="Wordpress"/>
+         <img width="82" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/>
 	 <img width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS"/>
 	 <img width="125" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
 	 <img width="125" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"/>
+	 <img width="108" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" title="Webpack"/>
 </div>
 <br/>
 
