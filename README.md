@@ -23,6 +23,9 @@ Hi, I’m @Qnosin but to be precise my name is Jakub Putaj,
 <br/>
 <p align='center'>My Real World Projects:</p>
 <div align='center'>
+<a href="https://jputaj.pl/" target="_blank">jputaj.pl</a>
+</div>
+<div align='center'>
 <a href="https://webcord.pl/" target="_blank">WebCord.pl</a>
 </div>
 <div align='center'>
