@@ -27,7 +27,7 @@ Hi, I’m @Qnosin but to be precise my name is Jakub Putaj,
 <a href="https://jputaj.pl/" target="_blank">jputaj.com.pl</a>
 </div>
 <div align='center'>
-<a href="https://dmprusak.pl/" target="_blank">dmprusak.pl</a>
+<a href="https://dmprusak.pl/" target="_blank">prusak.net.pl</a>
 </div>
 <div align='center'>
 <a href="https://karix.net/" target="_blank">Karix.net</a>
