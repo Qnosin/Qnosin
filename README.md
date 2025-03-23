@@ -1,6 +1,6 @@
 <p align="center">
 Hi, I’m @Qnosin but to be precise my name is Jakub Putaj,
-📫 If you want to contact me to colloborate with some projects or with something diffrent this is my email: putaj.jakub@gmail.com
+📫 If you want to contact me to colloborate with some projects or with something diffrent this is my email: jakub@jputaj.com.pl
  </p>
 
 
