@@ -11,13 +11,24 @@ Hi, I’m @Qnosin but to be precise my name is Jakub Putaj,
 <div align="center">
 	<img width="129" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" title="Wordpress"/>
 	<img width="70" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" title="PHP"/>
+</div>
+<div align="center">
          <img width="82" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/>
 	 <img width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS"/>
-	 <img width="125" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
-	 <img width="125" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"/>
-	 <img width="108" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" title="Webpack"/>
-	<img width="95" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="Webpack" title="Webpack"/>
 </div>
+<div align="center">
+	 <img width="125" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
+	 <img width="136" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="tailwind" title="tailwind"/>
+</div>
+<div align="center">
+	  <img width="65" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="vite" title="vite"/>
+	<img width="95" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="react" title="react"/>
+ </div>
+ <div align="center">
+	<img width="95" src="https://img.shields.io/badge/Symfony-black?logo=symfony" alt="symfony" title="symfony"/>
+	<img width="95" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="maria-db" title="maria-db"/>
+ </div>
+
 <br/>
 
 
