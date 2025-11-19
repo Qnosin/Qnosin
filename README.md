@@ -14,7 +14,7 @@ Hi, I’m @Qnosin but to be precise my name is Jakub Putaj,
 </div>
 <div align="center">
          <img width="82" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/>
-	 <img width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS"/>
+	 <img width="50" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS"/>
 </div>
 <div align="center">
 	 <img width="125" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
